@@ -5,6 +5,7 @@
 <p align="center">
   <em>
     I am undergraduate from <a href="https://chennai.vit.ac.in"> <b>Vellore Institute of Technology, Chennai</b></a>.<br>
+    I love to learn about new technologies. <br>
   </em> 
 </p>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
@@ -15,7 +16,8 @@
 - 🏦 I'm currently working on MERN Stack applications and android development
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently learning about blockchain and machine learning
-- 📝 I sometimes write articles on [dev.to](https://dev.to/ankitsahu)
+- 📝 I sometimes write articles on 
+      [<img align="center" alt="dev" height="30px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />](https://dev.to/ankitsahu)
 
 <hr>
 
