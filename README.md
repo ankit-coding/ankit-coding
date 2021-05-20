@@ -23,7 +23,7 @@
 
 ### 💬 Contact with me
 
-[<img align="left" alt="Website" height="25px" src="https://ankitsawho.github.io/" />](https://dev.to/ankitsahu)
+[<img align="left" alt="Website" height="25px" src="https://img-premium.flaticon.com/png/512/2301/2301129.png?token=exp=1621509246~hmac=537598199c46c15656dc044f50f5df1f" />](https://ankitsawho.github.io/)
 [<img align="left" alt="LinkedIn" height="25px" src="https://img-premium.flaticon.com/png/512/2111/2111499.png?token=exp=1621507678~hmac=decbafb5a14e36d57e07ddc0e3937adc"/>](https://www.linkedin.com/in/ankit-kumar-sahu-8817681a4/)
 [<img align="left" alt="Instagram" height="25px" src="https://img-premium.flaticon.com/png/512/174/174855.png?token=exp=1621507485~hmac=78f598879cc88a9e3e8c4a8a5b2769a7" />](https://instagram.com/ankitsawho/)
 [<img align="left" alt="Twitter" height="25px" src="https://img-premium.flaticon.com/png/512/889/889147.png?token=exp=1621507603~hmac=31324e24bc946ff2a0718f95cb775ce8" />](https://twitter.com/ankitsawho)
